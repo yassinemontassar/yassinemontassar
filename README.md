@@ -1,10 +1,11 @@
 # Hello World, I'm Yassine Montassar! 👋
 
 ## 🚀 About Me
-I'm a versatile Full Stack Developer with a knack for transforming ideas into digital solutions. I blend creative vision with technical acumen to craft responsive, scalable applications. Tackling complex problems and turning them into simple, beautiful designs is what I do best.
+I'm a  Full Stack Developer with a knack for transforming ideas into digital solutions. I blend creative vision with technical acumen to craft responsive, scalable applications. Tackling complex problems and turning them into simple, beautiful designs is what I do best.
 
 - 🌱 I’m currently learning everything!
 - 👯 I’m always open to collaborations with like minded people!
+- 
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

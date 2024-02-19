@@ -28,7 +28,9 @@ I'm a versatile Full Stack Developer with a knack for transforming ideas into di
 ## 📈 GitHub Stats
 
 ![yassinemontassar's Stats](https://github-readme-stats.vercel.app/api?username=yassinemontassar&theme=outrun&show_icons=true&hide_border=false&count_private=true)
+
 ![yassinemontassar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yassinemontassar&theme=outrun&hide_border=false)
+
 ![yassinemontassar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinemontassar&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 
 ## 📫 How to reach me:

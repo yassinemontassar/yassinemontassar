@@ -34,5 +34,5 @@ I'm a  Full Stack Developer with a knack for transforming ideas into digital sol
 ![yassinemontassar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinemontassar&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 
 ## 📫 How to reach me:
-- Email: [ sawthegamer70@gmail.com ]
+- Email: [ yassine_montassar@outlook.fr ]
 - Portfolio:  https://portfolio-one-sage-27.vercel.app/

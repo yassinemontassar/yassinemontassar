@@ -1,12 +1,12 @@
-# Hello World, I'm Yassine Montassar! 👋
+# Hello World, I'm Yassine Montassar!
 
-## 🚀 About Me
+## About Me
 I'm a  Full Stack Developer with a knack for transforming ideas into digital solutions. I blend creative vision with technical acumen to craft responsive, scalable applications. Tackling complex problems and turning them into simple, Backend is what I do best.
 
-- 🌱 I’m currently learning everything!
-- 👯 I’m always open to collaborations with like minded people!
+- I’m currently learning everything!
+- I’m always open to collaborations with like minded people!
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,7 +25,7 @@ I'm a  Full Stack Developer with a knack for transforming ideas into digital sol
 
 
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![yassinemontassar's Stats](https://github-readme-stats.vercel.app/api?username=yassinemontassar&theme=outrun&show_icons=true&hide_border=false&count_private=true)
 
@@ -33,6 +33,6 @@ I'm a  Full Stack Developer with a knack for transforming ideas into digital sol
 
 ![yassinemontassar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinemontassar&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 
-## 📫 How to reach me:
+## How to reach me:
 - Email: [ yassinemontassar99@gmail.com ]
 - Portfolio:  https://yassinemontassar.com/
